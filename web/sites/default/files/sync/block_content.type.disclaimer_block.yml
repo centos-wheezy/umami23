@@ -1,0 +1,10 @@
+uuid: ca764a22-a775-44c5-9a8d-04d96d2bcbf9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _pCMU5fiFIhusD-eK3I_2BAZIrFoctN1lcuJfL5mnZY
+id: disclaimer_block
+label: 'Disclaimer block'
+revision: 0
+description: 'A disclaimer block contains disclaimer and copyright text.'
